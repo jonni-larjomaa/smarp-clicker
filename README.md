@@ -4,10 +4,10 @@ Need more smarp scores ? dont worry here a small python script to create free cl
 
 # Requirements
 
-python 2.7 =>
-firefox
-[geckodriver](https://github.com/mozilla/geckodriver/releases)
-selenium
+- python 2.7 =>
+- firefox
+- [geckodriver](https://github.com/mozilla/geckodriver/releases)
+- selenium
 
 # installation
 
